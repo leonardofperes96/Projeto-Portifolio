@@ -1,2 +1,2 @@
 # Projeto-Portifolio
-Projeto portifolio desenvolvido com auxilio do curso Origamid, praticando HTML e CSS responsivo.
+Projeto portifolio feito para simular o site Portifolio do curso da Origamid,  a fim de praticar  HTML e CSS responsivo.
